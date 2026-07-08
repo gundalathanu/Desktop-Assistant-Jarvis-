@@ -1,2 +1,5 @@
-# Desktop-Assistant-Jarvis-
-A Python-based Desktop Assistant (Jarvis) that performs voice commands, opens applications, searches the web, tells the time, and automates basic desktop tasks.
+# Desktop Assistant (Jarvis)
+Simple voice assistant.
+
+Run: pip install -r requirements.txt
+python main.py
